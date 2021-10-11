@@ -15,6 +15,7 @@
  *
  *******************************************************************************/
 
+#include "liblwm2m.h"
 #include <stdio.h>
 
 #define COMMAND_END_LIST {NULL, NULL, NULL, NULL, NULL}
